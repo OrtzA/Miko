@@ -1,0 +1,13 @@
+@media only screen and (max-width: 600px) {
+
+    .header .header-img {
+        width: 200px;
+    }
+
+
+    .container {
+        margin: 0px 10px;
+
+    }
+}
+
